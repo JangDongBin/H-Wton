@@ -1,4 +1,7 @@
+#include <IRremote.h>
 #include<HX711.h>
+
+
 #define MAX 3
 
 /*핀 설정*/
@@ -23,6 +26,8 @@ boolean seat[MAX] = {false, false, false};
 
 /*무게 센서 객체 생성*/
 HX711 hx[MAX];
+
+IRsend ir;
 
 void setup(){
   Serial.begin(9600);
@@ -70,7 +75,11 @@ void loop(){
   }
   
   Serial.println(count);
-  
-  delay(2000);
+
+  for(int i = 0;i<3;i++)
+  {
+     ir.sendNEC(count,32);
+     delay(50);
+  }
   count = 0;
 }
