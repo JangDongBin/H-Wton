@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rest_area_congestion_app", "rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.csproj", "{1068A138-118E-4205-8DB8-B740029E6C5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rest_area_congestion_app.Tizen", "rest_area_congestion_app\rest_area_congestion_app.Tizen\rest_area_congestion_app.Tizen.csproj", "{42A458E4-35DF-40DA-BDF1-A055A30E529A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1068A138-118E-4205-8DB8-B740029E6C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1068A138-118E-4205-8DB8-B740029E6C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1068A138-118E-4205-8DB8-B740029E6C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1068A138-118E-4205-8DB8-B740029E6C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A458E4-35DF-40DA-BDF1-A055A30E529A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A458E4-35DF-40DA-BDF1-A055A30E529A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A458E4-35DF-40DA-BDF1-A055A30E529A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A458E4-35DF-40DA-BDF1-A055A30E529A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {302262E1-AEBC-49D5-8305-802A2B16CE03}
+	EndGlobalSection
+EndGlobal

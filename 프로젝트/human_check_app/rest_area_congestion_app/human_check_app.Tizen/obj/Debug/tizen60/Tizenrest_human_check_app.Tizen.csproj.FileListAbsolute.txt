@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\tpkroot\bin\rest_area_congestion_app.Tizen.dll
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\tpkroot\bin\rest_area_congestion_app.Tizen.pdb
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Core.dll
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Platform.Tizen.dll
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Platform.dll
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Xaml.dll
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\tpkroot\bin\rest_area_congestion_app.dll
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\tpkroot\bin\rest_area_congestion_app.pdb
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\tpkroot\rest_area_congestion_app.Tizen.deps.json
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\tpkroot\res\bad.png
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\tpkroot\res\good.png
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\tpkroot\res\soso.png
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\tpkroot\shared\res\rest_area_congestion_app.Tizen.png
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\tpkroot\tizen-manifest.xml
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\org.tizen.example.rest_area_congestion_app.Tizen-1.0.0.tpk

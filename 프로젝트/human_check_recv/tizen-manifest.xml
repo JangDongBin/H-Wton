@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.5" package="org.example.human_check_recv" version="1.0.0">
+    <profile name="iot-headed"/>
+    <service-application appid="org.example.human_check_recv" exec="human_check_recv" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>human_check_recv</label>
+        <icon>human_check_recv.png</icon>
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/peripheralio</privilege>
+    </privileges>
+</manifest>

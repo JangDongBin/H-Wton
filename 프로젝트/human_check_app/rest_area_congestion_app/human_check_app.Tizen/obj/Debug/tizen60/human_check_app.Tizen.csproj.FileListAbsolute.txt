@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\obj\Debug\tizen60\rest_area_congestion_app.Tizen.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\obj\Debug\tizen60\rest_area_congestion_app.Tizen.AssemblyInfo.cs
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\obj\Debug\tizen60\rest_area_congestion_app.Tizen.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\rest_area_congestion_app.Tizen.deps.json
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\rest_area_congestion_app.Tizen.dll
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\rest_area_congestion_app.Tizen.pdb
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\rest_area_congestion_app.dll
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\bin\Debug\tizen60\rest_area_congestion_app.pdb
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\obj\Debug\tizen60\rest_area_congestion_app.Tizen.csprojAssemblyReference.cache
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\obj\Debug\tizen60\rest_area_congestion_app.Tizen.csproj.CopyComplete
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\obj\Debug\tizen60\rest_area_congestion_app.Tizen.dll
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app.Tizen\obj\Debug\tizen60\rest_area_congestion_app.Tizen.pdb

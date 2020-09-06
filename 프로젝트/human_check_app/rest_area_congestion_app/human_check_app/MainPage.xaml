@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="rest_area_congestion_app.MainPage">
+
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <Button x:Name="button_Check" 
+                BackgroundColor="#1dabf0"
+                Clicked="Text_state"
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds="0.3, 0.85, 0.2, 0.1"
+                Text="refresh"
+                TextColor="White"></Button>
+            <Label
+               x:Name="good"
+               FontSize="60"
+               AbsoluteLayout.LayoutFlags="All"
+               AbsoluteLayout.LayoutBounds="0.85, 0.5, 0.5, 0.25"
+               HorizontalTextAlignment="Center"/>
+
+
+            <Image
+                x:Name="image"
+               AbsoluteLayout.LayoutFlags="All"
+               AbsoluteLayout.LayoutBounds="0,0.5,0.6,0.6" />
+
+
+            <Button x:Name="Send"
+                Text="Send / Stop"
+                BackgroundColor="Red"
+                AbsoluteLayout.LayoutFlags="All"
+                AbsoluteLayout.LayoutBounds="0.7,0.85, 0.3, 0.1"
+                Clicked="OnButtonClicked" />
+
+
+            <!--<Label Text="약간 혼잡"
+               x:Name="soso" Source="good.jpg"
+               FontSize="Large"
+               AbsoluteLayout.LayoutFlags="All"
+               AbsoluteLayout.LayoutBounds="0.5,0.4,1,0.25"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center" />
+
+            <Image Source="soso.jpg"
+               AbsoluteLayout.LayoutFlags="None"
+               AbsoluteLayout.LayoutBounds="50,50,200,200" />
+
+            <Label Text="혼잡"
+               x:Name="bad"
+               FontSize="Large"
+               AbsoluteLayout.LayoutFlags="All"
+               AbsoluteLayout.LayoutBounds="0.5,0.4,1,0.25"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center" />
+
+            <Image Source="bad.jpg"
+               AbsoluteLayout.LayoutFlags="None"
+               AbsoluteLayout.LayoutBounds="50,50,200,200" />-->
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

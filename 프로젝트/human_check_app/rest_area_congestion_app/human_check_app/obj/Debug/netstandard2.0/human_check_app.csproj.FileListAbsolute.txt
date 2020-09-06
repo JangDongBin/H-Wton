@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app\obj\Debug\netstandard2.0\rest_area_congestion_app.csprojAssemblyReference.cache
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app\obj\Debug\netstandard2.0\rest_area_congestion_app.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app\obj\Debug\netstandard2.0\rest_area_congestion_app.AssemblyInfo.cs
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app\bin\Debug\netstandard2.0\rest_area_congestion_app.deps.json
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app\bin\Debug\netstandard2.0\rest_area_congestion_app.dll
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app\bin\Debug\netstandard2.0\rest_area_congestion_app.pdb
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app\obj\Debug\netstandard2.0\rest_area_congestion_app.dll
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app\obj\Debug\netstandard2.0\rest_area_congestion_app.pdb
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app\obj\Debug\netstandard2.0\rest_area_congestion_app.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\rest_area_congestion_app\rest_area_congestion_app\rest_area_congestion_app\obj\Debug\netstandard2.0\XamlC.stamp

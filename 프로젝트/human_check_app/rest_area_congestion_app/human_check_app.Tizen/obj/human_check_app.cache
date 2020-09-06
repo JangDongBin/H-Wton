@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BomHV63+YFdnm7yK+EaRFKf+RATSFON2nPbH3DC0QVpwhfOUHrh1SbsrfAXzLkJeUIJZmmY3cTElMbCT3sHMTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\rest_area_congestion_app\\rest_area_congestion_app\\rest_area_congestion_app.Tizen\\rest_area_congestion_app.Tizen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\tizen.net\\6.0.0.14995\\tizen.net.6.0.0.14995.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\tizen.net.api6\\6.0.0.14995\\tizen.net.api6.6.0.0.14995.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"
+  ],
+  "logs": []
+}
